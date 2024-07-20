@@ -17,7 +17,7 @@ AtliQ Hardware, a leading computer hardware business, is navigating a dynamicall
 - **Sales Trends:** Provides time series analysis of sales over various periods with trend lines and moving averages.
 - **Performance Metrics:** Tracks KPIs including Revenue, Profit Margin, and Growth Rate.
 - **Geographical Analysis:** Visualizes sales by region on a bar chart and highlights high and low performing areas.
-- **Product Analysis:** Analyzes sales by product category and identifies top-performing products.
+- **Customer and Market Analysis:** Insights into customer behavior, top customers, markets with the best profit margins, and market trends.
 
 ## Data Sources
 
