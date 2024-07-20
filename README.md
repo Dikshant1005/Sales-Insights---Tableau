@@ -48,5 +48,10 @@ The Tableau dashboard is designed to be user-friendly and interactive, allowing 
 4. **Geographical Analysis**
    - Sales by region
 
+## Dashboard Overview
+<p align="center">
+    <img src="https://github.com/Dikshant1005/Sales-Insights---Tableau/blob/main/Dashboard%20overview.png" width="600">
+</p>
+
 
 
